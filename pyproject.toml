@@ -1,7 +1,7 @@
 [project]
 name = "emma-clip"
 version = "0.1.0"
-description = "Add your description here"
+description = "Generate CLIP text embeddings from EMMa product category hierarchies."
 readme = "README.md"
 requires-python = ">=3.10.19"
 dependencies = [
